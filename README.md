@@ -54,6 +54,15 @@ https://apna-gpt-pink.vercel.app
 ---
 
 
+## 📊 GitHub Stats
+
+![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdirfan0786&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdirfan0786&layout=compact&theme=tokyonight)
+
+---
+
+
 ## 📫 Connect With Me
 
 GitHub  
