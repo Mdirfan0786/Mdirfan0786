@@ -38,12 +38,18 @@ A full-stack social networking platform where users can create profiles, connect
 
 Tech: React • Node.js • Express • MongoDB • JWT
 
+Live Demo  
+https://jobadda-frontend.onrender.com
+
 ---
 
 ### ApnaGPT
 An AI-powered chat application that generates intelligent responses based on user prompts.
 
 Tech: React • Node.js • OpenAI API
+
+Live Demo  
+https://apna-gpt-pink.vercel.app
 
 ---
 
