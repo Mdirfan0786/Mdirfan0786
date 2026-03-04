@@ -49,8 +49,9 @@ Tech: React • Node.js • OpenAI API
 
 ## 📊 GitHub Stats
 
-![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdirfan0786&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdirfan0786&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mdirfan0786&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Mdirfan0786&layout=compact)
 
 ---
 
