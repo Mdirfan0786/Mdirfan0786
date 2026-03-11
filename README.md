@@ -60,6 +60,6 @@ GitHub
 https://github.com/Mdirfan0786
 
 LinkedIn  
-[(Add your LinkedIn link)](https://www.linkedin.com/in/md-irfan-2623b4210/)
+[( LinkedIn)](https://www.linkedin.com/in/md-irfan-2623b4210/)
 
 ---
